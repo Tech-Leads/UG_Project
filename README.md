@@ -1,4 +1,4 @@
 # UG_Project
 
-This repo contains files for UG copetition
+This repo contains files for UG competition
 
